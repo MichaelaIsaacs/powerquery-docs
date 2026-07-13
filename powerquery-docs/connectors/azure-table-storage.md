@@ -3,7 +3,8 @@ title: Power Query Azure Table Storage connector
 description: Provides basic information, prerequisites, and instructions on how to connect to Azure Table Storage, along with native query folding instructions and troubleshooting tips.
 author: whhender
 ms.topic: concept-article
-ms.date: 3/26/2024
+ms.date: 07/13/2026
+ms.update-cycle: 1095-days
 ms.author: whhender
 ms.subservice: connectors
 ms.custom: sfi-image-nochange

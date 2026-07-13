@@ -3,7 +3,8 @@ title: Power Query Azure Synapse Analytics (SQL DW) connector
 description: Provides basic information, prerequisites, and supported capabilities for the connector, and instructions on how to connect to your database using the connector.
 author: whhender
 ms.topic: concept-article
-ms.date: 10/9/2024
+ms.date: 07/13/2026
+ms.update-cycle: 1095-days
 ms.author: whhender
 ms.subservice: connectors
 ms.custom: sfi-image-nochange

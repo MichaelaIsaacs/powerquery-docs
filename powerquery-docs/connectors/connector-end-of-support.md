@@ -3,7 +3,8 @@ title: Power Query connector end of support
 description: Provides information about Power Query connectors that are no longer supported, their sunset date, and any additional information.
 author: whhender
 ms.topic: concept-article
-ms.date: 12/18/2025
+ms.date: 07/13/2026
+ms.update-cycle: 1095-days
 ms.author: whhender
 ms.subservice: connectors
 ---
