@@ -27,7 +27,7 @@ ms.custom: sfi-image-nochange
 > Some capabilities might be present in one product but not others due to deployment schedules and host-specific capabilities.
 
 > [!IMPORTANT]
-> The Databricks connector for Power BI now supports the [Arrow Database Connectivity (ADBC)](https://github.com/apache/arrow-adbc/blob/main/csharp/src/Drivers/Databricks/readme.md) driver (preview). This connector is transitioning from the embedded Simba Spark ODBC driver to the Databricks ADBC driver. For migration guidance, key dates, and admin controls, see [Transition from ODBC to ADBC drivers in Power BI and Fabric](../transition-to-adbc.md).
+> The Databricks connector for Power BI now supports the [Arrow Database Connectivity (ADBC)](https://github.com/apache/arrow-adbc/blob/main/csharp/src/Drivers/Databricks/readme.md) driver. This connector is transitioning from the embedded Simba Spark ODBC driver to the Databricks ADBC driver. For migration guidance, key dates, and admin controls, see [Transition from ODBC to ADBC drivers in Power BI and Fabric](../transition-to-adbc.md).
 
 ## Prerequisites
 
@@ -68,7 +68,7 @@ To connect to Databricks from Power Query Desktop, take the following steps:
 
 [!INCLUDE [Includes_databricks_connect-to-power-query-online](includes/databricks/databricks-connect-to-power-query-online.md)]
 
-## Arrow Database Connectivity driver connector implementation (Preview)
+## Arrow Database Connectivity driver connector implementation
 
 You can use the [Arrow Database Connectivity (ADBC)](https://github.com/apache/arrow-adbc/blob/main/csharp/src/Drivers/Databricks/readme.md) driver for the Databricks connector in Power BI. As we continue to enhance and add new capabilities to this connector, we recommend that you to upgrade to the latest version to try it out and [submit product feedback](https://docs.databricks.com/aws/en/resources/ideas).
 
