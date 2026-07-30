@@ -3,7 +3,8 @@ title: Proxy support in the Power Query SDK
 description: Describes how to use the Power Query SDK to handle proxy support for Power Query connectors.
 author: ptyx507x
 ms.topic: concept-article
-ms.date: 1/9/2023
+ms.date: 07/13/2026
+ms.update-cycle: 1825-days
 ms.author: miescobar
 ms.subservice: custom-connectors
 ---

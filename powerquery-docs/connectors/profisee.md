@@ -5,7 +5,8 @@ author: whhender
 ms.author: whhender
 ms.service: powerquery
 ms.topic: concept-article
-ms.date: 11/21/2025
+ms.date: 07/13/2026
+ms.update-cycle: 1095-days
 LocalizationGroup: reference
 ms.subservice: connectors
 ---

@@ -3,7 +3,8 @@ title: Power Query connector for FHIR
 description: Power Query connector for FHIR reference
 author: whhender
 ms.topic: concept-article
-ms.date: 1/24/2024
+ms.date: 07/13/2026
+ms.update-cycle: 1095-days
 ms.author: whhender
 ms.subservice: connectors
 ---
