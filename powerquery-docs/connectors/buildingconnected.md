@@ -3,7 +3,8 @@ title: BuildingConnected Power Query Connector
 description: Includes basic information, prerequisites, and information on how to connect to your BuildingConnected data, along with a list of known issues and limitations.
 author: joefields
 ms.topic: concept-article
-ms.date: 9/11/2025
+ms.date: 07/13/2026
+ms.update-cycle: 1095-days
 ms.author: whhender
 ms.subservice: connectors
 ---

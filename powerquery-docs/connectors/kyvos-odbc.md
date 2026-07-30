@@ -3,7 +3,8 @@ title: Kyvos ODBC Connector
 description: Provides basic information, prerequisites, and instructions on how to connect to Kyvos ODBC Connector.
 author: kyvosdevelopers
 ms.topic: concept-article
-ms.date: 11/12/2025
+ms.date: 07/13/2026
+ms.update-cycle: 1095-days
 ms.author: whhender
 ms.subservice: connectors
 ms.custom: sfi-image-nochange
