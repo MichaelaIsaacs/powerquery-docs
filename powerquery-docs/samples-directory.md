@@ -39,6 +39,12 @@ We maintain a list of samples on the DataConnectors repo on GitHub. Each of the 
 | Impala | This connector sample uses the Cloudera Impala ODBC driver, and is based on the connector template. | [GitHub Link](https://github.com/Microsoft/DataConnectors/tree/master/samples/ODBC/ImpalaODBC)
 | Direct Query for SQL | This sample creates an ODBC-based custom connector that enables Direct Query for SQL Server. | [GitHub Link](https://github.com/Microsoft/DataConnectors/tree/master/samples/DirectQueryForSQL) |
 
+## ADBC
+
+| Sample | Description | Link |
+| :--- | :--- | :--- |
+| DuckDB (FlightSQL) | This connector sample uses `Adbc.Connection` with the FlightSQL ADBC driver, and serves as a reference for ADBC connectors with query folding via `SqlView.Generator`. For more information, see [Developing an ADBC-based connector](adbc.md). | [GitHub Link](https://github.com/Microsoft/DataConnectors/tree/master/samples/DuckDbFlightSQL) |
+
 ## TripPin
 
 | Sample | Description | Link |
