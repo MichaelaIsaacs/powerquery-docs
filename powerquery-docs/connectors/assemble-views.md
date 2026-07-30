@@ -3,7 +3,8 @@ title: Power Query Assemble Views connector
 description: Includes basic information, prerequisites, and information on how to connect to your Assemble Views data, along with a list of known issues and limitations.
 author: hofax
 ms.topic: concept-article
-ms.date: 11/10/2025
+ms.date: 07/13/2026
+ms.update-cycle: 1095-days
 ms.author: whhender
 ms.subservice: connectors
 ---

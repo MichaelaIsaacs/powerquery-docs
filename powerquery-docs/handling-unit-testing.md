@@ -3,7 +3,8 @@ title: Handling unit testing for Power Query connectors
 description: Manage unit testing for Power Query connectors in Visual Studio
 author: ptyx507x
 ms.topic: concept-article
-ms.date: 11/7/2025
+ms.date: 07/13/2026
+ms.update-cycle: 1825-days
 ms.author: miescobar
 ms.subservice: custom-connectors
 ---

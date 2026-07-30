@@ -3,7 +3,8 @@ title: Power Query Common Data Service (Legacy) connector
 description: Provides basic information and instructions on connecting to data using the Common Data Service (Legacy) connector.
 author: whhender
 ms.topic: concept-article
-ms.date: 2/1/2024
+ms.date: 07/13/2026
+ms.update-cycle: 1095-days
 ms.author: whhender
 ms.subservice: connectors
 ---

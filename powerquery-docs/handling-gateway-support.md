@@ -3,7 +3,8 @@ title: Gateway Support for Power Query connectors
 description: Handle gateway support in Power Query connectors effectively. Learn TestConnection requirements, function signatures, and practical examples for enabling scheduled data refresh.
 author: ptyx507x
 ms.topic: concept-article
-ms.date: 07/01/2026
+ms.date: 07/13/2026
+ms.update-cycle: 1825-days
 ms.author: miescobar
 ms.subservice: custom-connectors
 ms.custom: sfi-ropc-blocked
@@ -16,8 +17,6 @@ ms.custom: sfi-ropc-blocked
 Both Personal and Standard modes of the [on-premises data gateway](https://powerbi.microsoft.com/blog/on-premises-data-gateway-july-update-is-now-available/) support custom connectors.
 
 Both gateway modes support **Import**. **Direct Query** is only supported in Standard mode. OAuth for custom connectors through gateways currently supports only gateway admins, not other data source users.
-
-The method for implementing TestConnection functionality might change while the Power BI Custom Data Connector functionality is in preview.
 
 To support scheduled refresh through the on-premises data gateway, your connector **must** implement a TestConnection handler.
 The function is called when the user is configuring credentials for your source, and used to ensure they're valid.

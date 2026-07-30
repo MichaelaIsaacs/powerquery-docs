@@ -3,7 +3,8 @@ title: General usage
 description: Using PQTest with your extension
 author: ryan-syed
 ms.topic: concept-article
-ms.date: 02/14/2024
+ms.date: 07/13/2026
+ms.update-cycle: 1825-days
 ms.author: whhender
 ms.subservice: custom-connectors
 ---

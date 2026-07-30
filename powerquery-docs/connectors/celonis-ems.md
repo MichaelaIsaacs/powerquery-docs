@@ -2,7 +2,8 @@
 title: Power Query Celonis EMS connector
 description: Provides basic information, prerequisites, and connection steps for Celonis EMS.
 author: capono
-ms.date: 9/11/2025 
+ms.date: 07/13/2026
+ms.update-cycle: 1095-days
 ms.author: whhender
 ms.subservice: connectors
 ---

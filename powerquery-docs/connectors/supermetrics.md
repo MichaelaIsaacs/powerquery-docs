@@ -3,7 +3,8 @@ title: Power Query Supermetrics connector
 description: Provides basic information and prerequisites for the Supermetrics connector, supported authentication types, outlines limitations and issues.
 author: diegomotasuper
 ms.topic: concept-article
-ms.date: 09/11/2025
+ms.date: 07/13/2026
+ms.update-cycle: 1095-days
 ms.author: whhender
 ms.subservice: connectors
 ---
