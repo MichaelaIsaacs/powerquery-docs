@@ -657,6 +657,14 @@ items:
               href: odbc-parameters.md
             - name: "Testing and troubleshooting"
               href: odbc-troubleshooting.md
+          - name: "ADBC development"
+            items:
+            - name: "ADBC connector development fundamentals"
+              href: adbc.md
+            - name: "ADBC connector development advanced patterns"
+              href: adbc-advanced-patterns.md
+            - name: "SQL generator for ADBC connectors"
+              href: adbc-sql-generator.md
           - name: "Handling resource path"
             href: handling-resource-path.md
           - name: "Handling paging"
