@@ -1,10 +1,10 @@
 ---
 title: TripPin 6 - Schema
 description: Adding a schema with enforcement to your TripPin REST connector.
-author: ptyx507x
+author: simplywilson
 ms.topic: tutorial
 ms.date: 11/25/2024
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ms.custom: sfi-image-nochange
 ---

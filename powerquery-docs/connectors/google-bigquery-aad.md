@@ -4,7 +4,7 @@ description: Provides basic information and prerequisites for the Google BigQuer
 author: whhender
 ms.topic: concept-article
 ms.date: 07/01/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ---
 

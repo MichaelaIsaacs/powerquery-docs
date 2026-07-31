@@ -1,8 +1,8 @@
 ---
 title: An Overview of Dataflows Across Microsoft Power Platform and Dynamics 365 Products
 description: An overview of dataflows across Microsoft Power Platform and Dynamics 365 products
-author: Luitwieler
-ms.author: jeluitwi
+author: mllopis
+ms.author: millopis
 ms.reviewer: whhender
 ms.date: 04/08/2026
 ms.subservice: dataflows

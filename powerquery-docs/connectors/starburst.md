@@ -2,7 +2,7 @@
 title: Power Query Starburst connector
 description: Learn about prerequisites, capabilities, and authentication options for the Starburst connectors in Power Query, including Microsoft Entra ID single sign-on for DirectQuery.
 author: kayu
-ms.author: whhender
+ms.author: tinglee
 ms.service: powerquery
 ms.topic: concept-article
 ms.date: 5/25/2026

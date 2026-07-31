@@ -4,7 +4,7 @@ description: Provides basic information and prerequisites for the Delta Sharing 
 author: whhender
 ms.topic: concept-article
 ms.date: 9/11/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ---
 

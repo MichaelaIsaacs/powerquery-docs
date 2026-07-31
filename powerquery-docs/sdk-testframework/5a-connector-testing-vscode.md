@@ -1,10 +1,10 @@
 ---
 title: Testing Your Extension Connector with Visual Studio Code
 description: Test your extension connector with Visual Studio Code Test Explorer using the provided test suite in the Power Query SDK test framework.
-author: KazimMir
+author: simplywilson
 ms.topic: reference
 ms.date: 01/07/2026
-ms.author: v-kmir
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

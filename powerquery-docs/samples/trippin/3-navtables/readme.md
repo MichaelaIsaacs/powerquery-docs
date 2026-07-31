@@ -1,10 +1,10 @@
 ---
 title: TripPin 3 - Navigation Tables
 description: Adding navigation tables to the TripPin REST connector.
-author: ptyx507x
+author: simplywilson
 ms.topic: tutorial
 ms.date: 11/25/2025
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

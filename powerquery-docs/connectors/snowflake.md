@@ -4,7 +4,7 @@ description: Provides basic information, prerequisites, and instructions on how 
 author: whhender
 ms.topic: concept-article
 ms.date: 04/08/2026
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ms.custom: sfi-image-nochange
 ---

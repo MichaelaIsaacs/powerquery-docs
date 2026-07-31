@@ -1,11 +1,11 @@
 ---
 title: How to migrate queries from Power Query in the desktop (Power BI and Excel) to dataflows
 description: How to migrate queries from Power Query in the desktop (Power BI and Excel) to dataflows.
-author: Luitwieler
+author: mllopis
 ms.topic: concept-article
 ms.date: 07/13/2026
 ms.update-cycle: 1095-days
-ms.author: jeluitwi
+ms.author: millopis
 ms.subservice: dataflows
 ---
 # How to migrate queries from Power Query in the desktop (Power BI and Excel) to dataflows

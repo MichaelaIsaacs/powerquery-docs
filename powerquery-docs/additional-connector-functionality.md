@@ -1,11 +1,11 @@
 ---
 title: Additional connector functionality
 description: Provides information to custom and certified connector developers on adding more connector functionality
-author: ptyx507x
+author: simplywilson
 ms.topic: concept-article
 ms.date: 07/13/2026
 ms.update-cycle: 1095-days
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

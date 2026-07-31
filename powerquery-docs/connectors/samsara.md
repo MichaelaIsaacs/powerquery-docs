@@ -4,7 +4,7 @@ description: Provides basic information and prerequisites for the Samsara connec
 author: whhender
 ms.topic: concept-article
 ms.date: 09/11/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ---
 

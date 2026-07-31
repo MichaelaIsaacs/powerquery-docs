@@ -1,10 +1,10 @@
 ---
 title: Handling Connector Signing
 description: How to sign custom connectors for trusted use with recommended security levels
-author: ptyx507x
+author: simplywilson
 ms.topic: concept-article
 ms.date: 07/17/2026
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ai-usage: ai-assisted
 ---

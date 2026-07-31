@@ -1,11 +1,11 @@
 ---
 title: Credentials
 description: Understanding credential commands within PQTest
-author: ryan-syed
+author: simplywilson
 ms.topic: concept-article
 ms.date: 07/13/2026
 ms.update-cycle: 1825-days
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: custom-connectors
 ms.custom: sfi-ropc-blocked
 ---

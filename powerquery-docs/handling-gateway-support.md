@@ -1,11 +1,11 @@
 ---
 title: Gateway Support for Power Query connectors
 description: Handle gateway support in Power Query connectors effectively. Learn TestConnection requirements, function signatures, and practical examples for enabling scheduled data refresh.
-author: ptyx507x
+author: simplywilson
 ms.topic: concept-article
 ms.date: 07/13/2026
 ms.update-cycle: 1825-days
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ms.custom: sfi-ropc-blocked
 ---

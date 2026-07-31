@@ -1,11 +1,11 @@
 ---
 title: Field mapping considerations for standard dataflows
 description: Learn how to get the best outcomes when you create dataflows that write their output to Dataverse.
-author: Luitwieler
+author: mllopis
 ms.reviewer: whhender
 ms.topic: concept-article
 ms.date: 11/26/2025
-ms.author: jeluitwi
+ms.author: millopis
 ms.subservice: dataflows
 ---
 

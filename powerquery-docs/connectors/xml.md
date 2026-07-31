@@ -4,7 +4,7 @@ description: Provides basic information and how to connect to your data, along w
 author: whhender
 ms.topic: concept-article
 ms.date: 1/24/2024
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ms.custom: sfi-image-nochange
 ---

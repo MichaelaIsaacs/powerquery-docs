@@ -1,10 +1,10 @@
 ---
 title: Security roles and permission levels in standard dataflows
 description: Describes the security roles and permission levels used in standard dataflows.
-author: Luitwieler
+author: mllopis
 ms.topic: concept-article
 ms.date: 12/1/2025
-ms.author: jeluitwi
+ms.author: millopis
 ms.subservice: dataflows
 ---
 

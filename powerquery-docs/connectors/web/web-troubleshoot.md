@@ -4,7 +4,7 @@ description: Provides troubleshooting tips for errors that might occur when usin
 author: whhender
 ms.topic: concept-article
 ms.date: 12/1/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ms.custom: sfi-image-nochange
 ---
