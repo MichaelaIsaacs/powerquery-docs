@@ -233,6 +233,9 @@ Starting with the June 2026 version, the on-premises data gateway uses the built
    ...
 </Microsoft.PowerBI.DataMovement.Pipeline.GatewayCore.GatewayCoreSettings>    
 ```
+> [!NOTE]
+> Once you change the `MashupFlight_DisableOracleBundledOdacProviderV2` setting in the Microsoft.PowerBI.DataMovement.Pipeline.GatewayCore.dll.config file, the configuration persists over on-premises data gateway upgrades.
+
 
 ### For DirectQuery mode in on-premises gateway (Preview)
 
