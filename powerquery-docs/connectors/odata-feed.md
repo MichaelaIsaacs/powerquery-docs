@@ -4,7 +4,7 @@ description: Provides basic information and prerequisites for the connector, and
 author: whhender
 ms.topic: concept-article
 ms.date: 11/13/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ---
 

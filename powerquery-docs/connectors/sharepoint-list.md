@@ -4,7 +4,7 @@ description: Provides basic information about how to connect to your data, along
 author: whhender
 ms.topic: concept-article
 ms.date: 11/21/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ---
 

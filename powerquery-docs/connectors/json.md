@@ -4,7 +4,7 @@ description: Provides basic information and connection instructions, along with 
 author: whhender
 ms.topic: concept-article
 ms.date: 7/16/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ms.custom: sfi-image-nochange
 ---

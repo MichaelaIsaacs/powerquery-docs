@@ -2,7 +2,7 @@
 title: Power Query Web Connector
 description: Provides basic information and how to connect to your data, along with the supported file types and instructions on using the on-premises data gateway and authentication types.
 author: whhender
-ms.author: whhender
+ms.author: tinglee
 ms.date: 04/08/2026
 ms.subservice: connectors
 ms.topic: concept-article

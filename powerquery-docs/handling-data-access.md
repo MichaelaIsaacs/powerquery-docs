@@ -1,11 +1,11 @@
 ---
 title: Handling Data Access
 description: How to use connectors to access data using M data source functions
-author: ptyx507x
+author: simplywilson
 ms.topic: concept-article
 ms.date: 07/13/2026
 ms.update-cycle: 1825-days
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

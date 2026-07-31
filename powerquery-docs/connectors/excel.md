@@ -4,7 +4,7 @@ description: Provides basic information and prerequisites for the connector, alo
 author: whhender
 ms.topic: concept-article
 ms.date: 11/12/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ---
 

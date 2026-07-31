@@ -1,11 +1,11 @@
 ---
 title: Add data to a table in Microsoft Dataverse by using Power Query
 description: Step-by-step instructions for how to use Power Query to add data to a new or existing table in Microsoft Dataverse from another data source.
-author: Luitwieler
+author: mllopis
 ms.reviewer: whhender
 ms.topic: how-to
 ms.date: 06/29/2026
-ms.author: jeluitwi
+ms.author: millopis
 ms.subservice: dataflows
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Implement Query Folding and Advanced Patterns in ADBC-based connectors
 description: Learn how to implement navigation tables, SQL dialect generation and query folding, key metadata, DirectQuery/native query support, and sample-to-template customization for ADBC connectors.
-author: ryan-syed
+author: simplywilson
 ms.topic: concept-article
 ms.date: 7/22/2026
-ms.author: whhender       
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

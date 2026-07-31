@@ -1,10 +1,10 @@
 ---
 title: Connect to data sources for dataflows
 description: Learn how to connect to data sources for dataflows.
-author: Luitwieler
+author: mllopis
 ms.topic: concept-article
 ms.date: 7/24/2024
-ms.author: jeluitwi
+ms.author: millopis
 ms.subservice: dataflows
 ms.custom: sfi-image-nochange
 ---

@@ -1,10 +1,10 @@
 ---
 title: Run-compare command
 description: Regression testing with the run-compare command
-author: KazimMir
+author: simplywilson
 ms.topic: concept-article
 ms.date: 04/14/2026
-ms.author: v-kmir
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

@@ -4,7 +4,7 @@ description: Includes basic information about products that use the connector, s
 author: whhender
 ms.topic: concept-article
 ms.date: 10/22/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ms.custom: sfi-image-nochange
 ---

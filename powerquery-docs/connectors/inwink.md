@@ -2,7 +2,7 @@
 title: inwink connector (Beta)
 description: Provides basic information and prerequisites for the connector, and descriptions on how to connect to the inwink connector.
 author: paservois
-ms.author: whhender
+ms.author: tinglee
 ms.topic: concept-article
 ms.date: 07/13/2026
 ms.update-cycle: 1095-days

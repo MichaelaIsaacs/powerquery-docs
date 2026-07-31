@@ -1,8 +1,8 @@
 ---
 title: Data exfiltration considerations and best practices for dataflows
 description: Learn the security best practices for protection against data exfiltration when using Dataflows.
-author: whhender
-ms.author: whhender
+author: mllopis
+ms.author: millopis
 ms.topic: concept-article
 ms.date: 6/13/2025
 ms.subservice: dataflows

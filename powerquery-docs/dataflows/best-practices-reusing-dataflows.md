@@ -1,10 +1,10 @@
 ---
 title: Best practices for reusing dataflows across environments and workspaces
 description: Best practices for reusing dataflows across environments and workspaces
-author: Luitwieler
+author: mllopis
 ms.topic: concept-article
 ms.date: 1/26/2024
-ms.author: jeluitwi
+ms.author: millopis
 ms.subservice: dataflows
 ms.custom: sfi-image-nochange
 ---

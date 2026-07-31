@@ -4,7 +4,7 @@ description: Provides basic information, prerequisites, and connection steps for
 author: capono
 ms.date: 07/13/2026
 ms.update-cycle: 1095-days
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ---
 

@@ -218,6 +218,7 @@ The get data experience in Power Query Online uses a modular interface separated
 - [Recent data sources](#recent-data-sources-module)
 - [Dataflow templates](#dataflow-templates-module) (Power BI service only)
 - [OneLake catalog](#onelake-catalog-module) (Fabric only)
+- [New Fabric item](#new-fabric-item-module) (Fabric destinations only)
 - [Azure data sources](#azure-data-sources-module)
 - [Upload file](#upload-file-module)
 - [Blank table](#blank-table-module)
@@ -225,61 +226,43 @@ The get data experience in Power Query Online uses a modular interface separated
 
 ### Home module
 
-The home page acts as a summary of all the modules and presents you with different options to expedite the process and get you closer to your data. Typically, this module contains any existing data sources and gives you the option to use a new data source, table, and upload files. From the home page, you can select **View more** on the right side of the **New sources**, **Recent (Preview)**, and **OneLake catalog** sections to visit those modules.
-
-:::image type="content" source="media/get-data-ui/home.png" alt-text="Screenshot of the Choose data source page with the Home module on the right side emphasized." lightbox="media/get-data-ui/home.png":::
+[!INCLUDE [Home module](includes/get-data-home-module.md)]
 
 ### New data source module
 
-The **New** module provides a full list of connectors that you can select from. On this page, you can search for a connector across all categories by using the search bar at the top of page. You can also navigate across the categories to find a specific connector to integrate with. Selecting a connector here opens the connection settings window, which begins the [process of connecting](#power-query-online-experience).
-
-:::image type="content" source="media/get-data-ui/new.png" alt-text="New Module Screenshot." lightbox="media/get-data-ui/new.png":::
+[!INCLUDE [New data source module](includes/get-data-new-source-module.md)]
 
 ### Recent data sources module
 
-The **Recent** module displays recently used data sources, allowing you to quickly reconnect to sources you've used before.
+[!INCLUDE [Recent data sources module](includes/get-data-recent-sources-module.md)]
 
 ### Dataflow templates module
 
-A dataflow template provides predefined entity and field mappings for moving data from source to destination in the Common Data Model, so you don't need to configure mappings manually. For more information about templates, go to [Introducing dataflow templates; A quick and efficient way to build your sales leaderboard and get visibility over your sales pipeline](https://powerbi.microsoft.com/blog/introducing-dataflow-templates-a-quick-and-efficient-way-to-build-your-sales-leaderboard-and-get-visibility-over-your-sales-pipeline).
-
-:::image type="content" source="media/get-data-ui/templates.png" alt-text="Screenshot of the Templates page with the Templates module on the right side emphasized." lightbox="media/get-data-ui/templates.png":::
+[!INCLUDE [Dataflow templates module](includes/get-data-dataflow-templates-module.md)]
 
 ### OneLake catalog module
 
-The OneLake catalog makes it easy to find, explore, and use the Fabric data items in your organization that you have access to. It provides information about the items and entry points for working with them. For more information on the OneLake catalog, go to [OneLake catalog](/fabric/governance/onelake-catalog-overview).
+[!INCLUDE [OneLake catalog module](includes/get-data-onelake-catalog-module.md)]
 
-:::image type="content" source="media/get-data-ui/onelake.png" alt-text="Screenshot of the OneLake catalog module." lightbox="media/get-data-ui/onelake.png":::
+### New Fabric item module
+
+[!INCLUDE [New Fabric item module](includes/get-data-new-fabric-item-module.md)]
 
 ### Azure data sources module
 
-The **Azure** module lets you connect to Azure-hosted data sources such as Azure SQL Database, Azure Blob Storage, and Azure Data Lake Storage.
+[!INCLUDE [Azure data sources module](includes/get-data-azure-sources-module.md)]
 
 ### Upload file module
 
-The **Upload** module lets you upload files directly by browsing for a local file or dragging and dropping it. The following connectors support this capability:
-
-- [Excel](connectors/excel.md)
-- [JSON](connectors/json.md)
-- [PDF](connectors/pdf.md)
-- [Text/CSV](connectors/text-csv.md)
-- [XML](connectors/xml.md)
-
-For more information on uploading files, go to [Upload a file](upload-file.md).
-
-:::image type="content" source="media/get-data-ui/upload.png" alt-text="Upload Module Screenshot." lightbox="media/get-data-ui/upload.png":::
+[!INCLUDE [Upload file module](includes/get-data-upload-file-module.md)]
 
 ### Blank table module
 
-The **Blank table** module provides a quick start in creating a table in a dataflow.
-
-:::image type="content" source="media/get-data-ui/blank-table.png" alt-text="Screenshot of a Blank Table Module." lightbox="media/get-data-ui/blank-table.png":::
+[!INCLUDE [Blank table module](includes/get-data-blank-table-module.md)]
 
 ### Blank query module
 
-The **Blank query** module lets you write or paste your own M script to create a new query.
-
-:::image type="content" source="media/get-data-ui/blank-query.png" alt-text="Screenshot of a Blank Query Module." lightbox="media/get-data-ui/blank-query.png":::
+[!INCLUDE [Blank query module](includes/get-data-blank-query-module.md)]
 
 ## Save and load your data
 
