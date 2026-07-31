@@ -1,11 +1,11 @@
 ---
 title: Power Query SDK Overview
 description: A guided tour on how to use the Power Query SDK in Visual Studio Code and the core functionality provided through it
-author: ptyx507x
+author: simplywilson
 
 ms.topic: quickstart
 ms.date: 5/15/2024
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ms.custom: sfi-image-nochange
 ---

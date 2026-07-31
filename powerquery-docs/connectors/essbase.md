@@ -4,7 +4,7 @@ description: Provides basic information and prerequisites for the Essbase connec
 author: whhender
 ms.topic: concept-article
 ms.date: 11/11/2025 
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ms.custom: sfi-image-nochange
 ---

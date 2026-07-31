@@ -1,11 +1,11 @@
 ---
 title: Troubleshooting an ODBC-based Power Query connector
 description: Describes how to troubleshoot and test your ODBC-based Power Query connector
-author: ptyx507x
+author: simplywilson
 ms.topic: concept-article
 ms.date: 07/13/2026
 ms.update-cycle: 1095-days
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

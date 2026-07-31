@@ -1,9 +1,9 @@
 ---
 title: Creating your first connector - Hello World
 description: Create your first connector.
-author: ptyx507x
+author: simplywilson
 ms.date: 5/15/2024
-ms.author: miescobar
+ms.author: tinglee
 ms.custom: intro-internal
 ms.subservice: custom-connectors
 ---

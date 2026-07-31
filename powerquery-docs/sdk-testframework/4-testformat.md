@@ -1,10 +1,10 @@
 ---
 title: Test format specification
 description: Understanding various file formats and their functionality within the Power Query SDK test framework.
-author: ryan-syed
+author: simplywilson
 ms.topic: reference
 ms.date: 01/19/2024
-ms.author: v-ryansyed
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Adding your tests
 description: Adding tests to verify your extension connector and understanding various options while working with the Power Query SDK test framework
-author: ryan-syed
+author: simplywilson
 ms.topic: reference
 ms.date: 01/19/2024
-ms.author: v-ryansyed
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

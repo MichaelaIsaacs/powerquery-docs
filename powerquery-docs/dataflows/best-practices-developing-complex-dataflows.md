@@ -1,10 +1,10 @@
 ---
 title: Best practices for designing and developing complex dataflows
 description: Best practices for designing and developing complex dataflows
-author: Luitwieler
+author: mllopis
 ms.topic: concept-article
 ms.date: 1/26/2024
-ms.author: jeluitwi
+ms.author: millopis
 ms.subservice: dataflows
 ---
 

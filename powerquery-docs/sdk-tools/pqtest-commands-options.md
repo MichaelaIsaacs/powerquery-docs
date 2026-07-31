@@ -1,11 +1,11 @@
 ---
 title: Commands and options
 description: Provides a list of commands and options in the test harness
-author: ryan-syed
+author: simplywilson
 ms.topic: concept-article
 ms.date: 07/13/2026
 ms.update-cycle: 1825-days
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: custom-connectors
 ms.custom: sfi-ropc-nochange
 ---
