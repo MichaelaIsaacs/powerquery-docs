@@ -1,10 +1,10 @@
 ---
 title: Configuring Microsoft Entra for a custom connector
 description: Quickstart guide for enabling Microsoft Entra support for a custom connector.
-author: mattmasson
+author: simplywilson
 ms.topic: concept-article
 ms.date: 3/12/2024
-ms.author: mmasson
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

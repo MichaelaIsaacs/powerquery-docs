@@ -4,7 +4,7 @@ description: Describes conversion information and specific features available in
 author: whhender
 ms.topic: concept-article
 ms.date: 11/24/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ---
 

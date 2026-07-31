@@ -1,10 +1,10 @@
 ---
 title: Power Automate templates for the dataflows connector
 description: Introduction to Power Automate templates for the dataflows connector.
-author: Luitwieler
+author: mllopis
 ms.topic: overview
 ms.date: 1/26/2024
-ms.author: jeluitwi
+ms.author: millopis
 ms.subservice: dataflows
 ---
 

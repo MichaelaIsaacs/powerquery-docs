@@ -1,10 +1,10 @@
 ---
 title: "Create and use dataflows in Microsoft Power Platform"
 description: Learn how to use dataflows in Microsoft Power Platform.
-author: Luitwieler
+author: mllopis
 ms.topic: concept-article
 ms.date: 06/15/2026
-ms.author: jeluitwi
+ms.author: millopis
 ms.subservice: dataflows
 ---
 

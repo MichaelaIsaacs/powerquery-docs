@@ -1,9 +1,9 @@
 ---
 title: Native query support in the Power Query SDK
 description: Generic native query support implementation guide for Power Query custom connectors using the Power Query SDK.
-author: ptyx507
+author: simplywilson
 ms.date: 2/14/2023
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

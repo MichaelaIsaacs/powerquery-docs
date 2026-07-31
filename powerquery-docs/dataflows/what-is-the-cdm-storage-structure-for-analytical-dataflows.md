@@ -1,10 +1,10 @@
 ---
 title: What is the storage structure for analytical dataflows
 description: What is the storage structure for analytical dataflows
-author: Luitwieler
+author: mllopis
 ms.topic: concept-article
 ms.date: 11/26/2025
-ms.author: jeluitwi
+ms.author: millopis
 ms.subservice: dataflows
 ---
 

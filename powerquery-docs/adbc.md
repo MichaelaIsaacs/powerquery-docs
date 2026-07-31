@@ -1,10 +1,10 @@
 ---
 title: Developing an ADBC-based Power Query connector
 description: Provides an overview of building a Power Query connector using Arrow Database Connectivity (ADBC), using the DuckDB FlightSQL sample as a reference. Learn when to use Adbc.Connection and how to configure driver settings, connection properties, type mappings, and authentication for an ADBC-based connector.
-author: ryan-syed
+author: simplywilson
 ms.topic: concept-article
 ms.date: 7/22/2026
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

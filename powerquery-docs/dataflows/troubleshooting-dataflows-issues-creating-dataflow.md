@@ -1,10 +1,10 @@
 ---
 title: Troubleshoot dataflow issues - creating dataflows
 description: Troubleshoot dataflow issues - creating dataflows
-author: luitwieler
+author: mllopis
 ms.topic: concept-article
 ms.date: 11/26/2025
-ms.author: jeluitwi
+ms.author: millopis
 ms.subservice: dataflows
 ms.custom: sfi-image-nochange
 ---

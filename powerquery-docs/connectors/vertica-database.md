@@ -4,7 +4,7 @@ description: Provides basic information for the Vertica database connector, alon
 author: whhender
 ms.topic: concept-article
 ms.date: 11/19/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ---
 

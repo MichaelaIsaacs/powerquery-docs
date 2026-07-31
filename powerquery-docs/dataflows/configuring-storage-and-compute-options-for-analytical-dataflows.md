@@ -1,8 +1,8 @@
 ---
 title: Configuring storage and compute options for analytical dataflows
 description: Configuring storage and compute options for analytical dataflows.
-author: Luitwieler
-ms.author: jeluitwi
+author: mllopis
+ms.author: millopis
 ms.topic: concept-article
 ms.date: 11/26/2025
 ms.subservice: dataflows

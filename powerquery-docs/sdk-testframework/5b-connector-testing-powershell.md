@@ -1,10 +1,10 @@
 ---
 title: Testing your extension connector with PowerShell
 description: Test your extension connector using the PowerShell utility in the Power Query SDK test framework.
-author: ryan-syed
+author: simplywilson
 ms.topic: reference
 ms.date: 01/07/2026
-ms.author: v-ryansyed
+ms.author: tinglee
 ms.subservice: custom-connectors
 ms.custom: sfi-ropc-blocked
 ---

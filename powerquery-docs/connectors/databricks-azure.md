@@ -4,7 +4,7 @@ description: Provides basic information and prerequisites for using Power Query'
 author: whhender
 ms.topic: concept-article
 ms.date: 7/21/2026
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ms.custom: sfi-image-nochange
 ---

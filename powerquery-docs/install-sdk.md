@@ -1,11 +1,11 @@
 ---
 title: Develop a connector using the Power Query SDK
 description: Using the Power Query SDK to create new Power Query connectors
-author: ptyx507x
+author: simplywilson
 
 ms.topic: quickstart
 ms.date: 9/11/2025
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

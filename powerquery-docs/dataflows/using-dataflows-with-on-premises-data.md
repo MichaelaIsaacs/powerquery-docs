@@ -1,8 +1,8 @@
 ---
 title: "Using an On-Premises Data Gateway in Power Platform Dataflows"
 description: "Learn how to use an on-premises data gateway in Power Platform dataflows"
-author: Luitwieler
-ms.author: jeluitwi
+author: mllopis
+ms.author: millopis
 ms.reviewer: whhender
 ms.date: 04/08/2026
 ms.subservice: dataflows

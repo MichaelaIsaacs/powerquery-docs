@@ -4,7 +4,7 @@ description: Extract data from a Web page by providing an example of what you wa
 author: whhender
 ms.topic: how-to
 ms.date: 11/26/2025
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ---
 # Get webpage data by providing examples

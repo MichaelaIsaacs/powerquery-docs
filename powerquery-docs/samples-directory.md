@@ -1,10 +1,10 @@
 ---
 title: Power Query connector samples
 description: A list of functional, ODBC, and tutorial samples of Power Query connectors
-author: ptyx507x
+author: simplywilson
 ms.topic: concept-article
 ms.date: 2/14/2023
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

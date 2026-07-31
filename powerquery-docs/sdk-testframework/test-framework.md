@@ -1,10 +1,10 @@
 ---
 title: Power Query SDK test framework reference sequence
 description: Overview and listing of the PowerQuery SDK testing framework reference sequence.
-author: ryan-syed
+author: simplywilson
 ms.topic: reference
 ms.date: 09/11/2025
-ms.author: v-ryansyed
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

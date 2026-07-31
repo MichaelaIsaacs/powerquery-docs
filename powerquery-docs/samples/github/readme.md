@@ -1,10 +1,10 @@
 ---
 title: GitHub tutorial for Power Query
 description: Writing a GitHub connector for Power Query including OAuth
-author: ptyx507x
+author: simplywilson
 ms.topic: tutorial
 ms.date: 12/09/2019
-ms.author: miescobar
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 

@@ -4,7 +4,7 @@ description: Provides basic information and connection instructions for connecti
 author: whhender
 ms.topic: concept-article
 ms.date: 2/7/2024
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: connectors
 ---
 

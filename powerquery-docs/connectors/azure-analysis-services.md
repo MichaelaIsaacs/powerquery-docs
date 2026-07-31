@@ -4,7 +4,7 @@ description: Includes basic information about products that use the Azure Analys
 author: whhender
 ms.topic: concept-article
 ms.date: 11/26/2025
-ms.author: whhender
+ms.author: tinglee
 LocalizationGroup: reference
 ms.subservice: connectors
 ms.custom: sfi-image-nochange

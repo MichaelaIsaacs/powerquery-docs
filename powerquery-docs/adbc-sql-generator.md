@@ -1,10 +1,10 @@
 ---
 title: SQL generator for ADBC connectors
 description: Describes how to implement query folding for an ADBC-based Power Query connector by using the SqlView.Generator engine helper and a layered SQL generator.
-author: ryan-syed
+author: simplywilson
 ms.topic: concept-article
 ms.date: 7/22/2026
-ms.author: whhender
+ms.author: tinglee
 ms.subservice: custom-connectors
 ---
 
