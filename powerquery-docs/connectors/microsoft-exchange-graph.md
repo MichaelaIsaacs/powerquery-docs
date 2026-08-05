@@ -14,8 +14,6 @@ ms.custom: sfi-image-nochange
 
 > [!NOTE]
 > The Microsoft Exchange (Graph) connector is in **preview** and released in **Power BI Desktop only** for the initial rollout. It reads mailbox data through Microsoft Graph using an organizational (Microsoft Entra) account.
->
-> This connector is planned as the successor to the legacy [Microsoft Exchange](microsoft-exchange.md) and [Microsoft Exchange Online](microsoft-exchange-online.md) connectors. For migration guidance, see <!-- TODO: link migration KB when published -->.
 
 ## Summary
 
@@ -80,7 +78,3 @@ To connect to Microsoft Exchange (Graph) from Power BI Desktop:
 - **Sort and order query folding**: A known query-folding limitation affects sort and order operations against Graph in the current preview build. <!-- TODO: describe symptom, workaround, and ADO tracking ID once eng finalizes wording -->
 - **Get Data experiences**: <!-- TODO: reflect resolution of the modern vs. legacy Get Data behavior surfaced during the July 29 bug bash once confirmed -->
 - <!-- TODO: confirm sovereign cloud, GCC, LTS/SAC scope from the open items list before public preview -->
-
-## Migrating from the legacy Exchange connectors
-
-If you're using the existing [Microsoft Exchange](microsoft-exchange.md) or [Microsoft Exchange Online](microsoft-exchange-online.md) connectors, see the migration guide: <!-- TODO: link migration KB when published -->
