@@ -10,7 +10,7 @@ ms.subservice: connectors
 ms.custom: sfi-image-nochange
 ---
 
-# Microsoft Exchange (Graph) (Preview)
+# Microsoft Exchange (Graph)
 
 > [!NOTE]
 > The Microsoft Exchange (Graph) connector is in **preview** and released in **Power BI Desktop only** for the initial rollout. It reads mailbox data through Microsoft Graph using an organizational (Microsoft Entra) account.
@@ -54,27 +54,25 @@ Timelines are subject to change based on preview feedback.
 
 - Import
 
-<!-- TODO: create includes/microsoft-exchange-graph/microsoft-exchange-graph-capabilities-supported.md once eng confirms the final capability set for preview -->
-
 ## Connect to Microsoft Exchange (Graph) from Power Query Desktop
 
 To connect to Microsoft Exchange (Graph) from Power BI Desktop:
 
 1. In the **Get Data** experience, select **Online Services**, select **Microsoft Exchange (Graph)**, and then select **Connect**.
 
-   <!-- TODO: :::image type="content" source="./media/microsoft-exchange-graph/get-data.png" alt-text="Screenshot of the Get Data dialog, showing Microsoft Exchange (Graph) selected.":::  -->
+   <!-- TODO: add Get Data screenshot -->
 
 2. Choose the mailbox data entry point you want to read (**Mail** in the initial preview), and then select **OK**.
 
-   <!-- TODO: :::image type="content" source="./media/microsoft-exchange-graph/entry-point.png" alt-text="Screenshot of the Microsoft Exchange (Graph) entry point dialog.":::  -->
+   <!-- TODO: add entry point selection screenshot -->
 
 3. When prompted to sign in, select **Sign in** and complete authentication with your organizational account.
 
-   <!-- TODO: :::image type="content" source="./media/microsoft-exchange-graph/sign-in.png" alt-text="Screenshot of the Microsoft Exchange (Graph) sign-in dialog.":::  -->
+   <!-- TODO: add sign-in screenshot -->
 
 4. In **Navigator**, browse the returned folders and select the data to import. Select **Load** to load the table, or **Transform Data** to open the Power Query Editor to filter and refine the set of data you want to use.
 
-   <!-- TODO: :::image type="content" source="./media/microsoft-exchange-graph/navigator.png" alt-text="Screenshot of the Navigator showing mail folders and messages.":::  -->
+   <!-- TODO: add Navigator screenshot -->
 
 ## Known limitations and considerations
 
