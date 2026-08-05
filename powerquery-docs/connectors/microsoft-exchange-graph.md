@@ -58,19 +58,11 @@ To connect to Microsoft Exchange (Graph) from Power BI Desktop:
 
 1. In the **Get Data** experience, select **Online Services**, select **Microsoft Exchange (Graph)**, and then select **Connect**.
 
-   <!-- TODO: add Get Data screenshot -->
-
 2. Choose the mailbox data entry point you want to read (**Mail** in the initial preview), and then select **OK**.
-
-   <!-- TODO: add entry point selection screenshot -->
 
 3. When prompted to sign in, select **Sign in** and complete authentication with your organizational account.
 
-   <!-- TODO: add sign-in screenshot -->
-
 4. In **Navigator**, browse the returned folders and select the data to import. Select **Load** to load the table, or **Transform Data** to open the Power Query Editor to filter and refine the set of data you want to use.
-
-   <!-- TODO: add Navigator screenshot -->
 
 ## Known limitations and considerations
 
