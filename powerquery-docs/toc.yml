@@ -483,6 +483,8 @@ items:
         href: connectors/microsoft-exchange.md
       - name: "Microsoft Exchange Online"
         href: connectors/microsoft-exchange-online.md
+      - name: "Microsoft Exchange (Graph) (Preview)"
+        href: connectors/microsoft-exchange-graph.md
       - name: "MicroStrategy for Power BI"
         href: connectors/microstrategy-for-power-bi.md
       - name: "MongoDB Atlas SQL interface"
